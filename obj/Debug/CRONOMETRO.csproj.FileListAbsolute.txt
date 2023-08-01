@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.Form1.resources
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\bin\Debug\CRONOMETRO.exe.config
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\bin\Debug\CRONOMETRO.exe
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\bin\Debug\CRONOMETRO.pdb
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.exe
+C:\Users\USER\OneDrive\Escritorio\Juan Carlos\OneDrive\Curso de tutor virtual\Programacion Orientada Objeto\CRONOMETRO\CRONOMETRO\obj\Debug\CRONOMETRO.pdb
